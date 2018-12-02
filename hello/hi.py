@@ -1,1 +1,1 @@
-print('hello mug')
+print('hello muug')

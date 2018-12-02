@@ -72,8 +72,8 @@
       <list>
         <option value="$PROJECT_DIR$/hello/__init__.py" />
         <option value="F:/0_ENV_SCRIPTS/switchEnv.py" />
-        <option value="$PROJECT_DIR$/hello/hi.py" />
         <option value="$PROJECT_DIR$/switchEnv.py" />
+        <option value="$PROJECT_DIR$/hello/hi.py" />
       </list>
     </option>
   </component>
