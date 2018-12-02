@@ -193,6 +193,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="177" height="167" key="Git.Branch.Popup" />
+    <state width="177" height="167" key="Git.Branch.Popup/2560.1440/1920.1200" />
+    <state width="177" height="167" key="Git.Branch.Popup@1920.1200" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
