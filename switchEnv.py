@@ -8,7 +8,7 @@ from os.path import dirname
 
 
 
-env_path = r"F:\maser"
+env_path = r"F:\Maser"
 dev_path = r"F:\0_ENV_DEV"
 
 
