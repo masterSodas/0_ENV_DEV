@@ -9,7 +9,7 @@ from os.path import dirname
 
 
 env_path = r"F:\0_ENV_SCRIPTS"
-dev_path = r"F:\0_ENV_DEV"
+dev_path = r"F:\maser"
 
 
 
