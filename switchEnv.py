@@ -7,9 +7,8 @@ from os.path import dirname
 
 
 
-
-env_path = r"F:\Maser"
-dev_path = r"F:\0_ENV_DEV"
+env_path = r"Y:\0_ENV_TEST"
+dev_path = r"C:\Users\Polar Media\Documents\GitHub\MasterEnv"
 
 
 
