@@ -1,1 +1,1 @@
-print(bar)
+print('bar')
